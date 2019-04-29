@@ -1,0 +1,7 @@
+machinetr/
+__pycache__/
+.idea/
+__pycache__/
+*.py[cod]
+rough.py
+checkpoints/
